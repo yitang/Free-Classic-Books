@@ -1,5 +1,5 @@
-** PART ONE Fundamental Techniques in Handling People
-*** 1 "IF YOU WANT TO GATHER HONEY, DON'T KICK OVER THE BEEHIVE"
+* PART ONE Fundamental Techniques in Handling People
+** 1 "IF YOU WANT TO GATHER HONEY, DON'T KICK OVER THE BEEHIVE"
 
 On May 7, 1931, the most sensational manhunt New York City had ever
 known had come to its climax. After weeks of search, "Two Gun" Crowley
@@ -7,7 +7,7 @@ known had come to its climax. After weeks of search, "Two Gun" Crowley
 trapped in his sweetheart's apartment on West End Avenue.
 
 One hundred and fifty policemen and detectives laid siege to his
-top-fioor hideway. They chopped holes in the roof; they tried to smoke
+top-floor hideway. They chopped holes in the roof; they tried to smoke
 out Crowley, the "cop killer," with teargas. Then they mounted their
 machine guns on surrounding buildings, and for more than an hour one
 of New York's fine residential areas reverberated with the crack of
@@ -23,7 +23,7 @@ said the Commissioner, "at the drop of a feather."
 
 But how did "Two Gun" Crowley regard himself? We know, because while
 the police were firing into his apartment, he wrote a letter addressed
-"To whom it may concern, " And, as he wrote, the blood fiowing from
+"To whom it may concern, " And, as he wrote, the blood flowing from
 his wounds left a crimson trail on the paper. In this letter Crowley
 said: "Under my coat is a weary heart, but a kind one - one that would
 do nobody any harm."
@@ -33,9 +33,7 @@ his girl friend on a country road out on Long Island. Suddenly a
 policeman walked up to the car and said: "Let me see your license."
 
 Without saying a word, Crowley drew his gun and cut the policeman down
-with a shower of lead. As the dying
-
-officer fell, Crowley leaped out of the car, grabbed the officer's
+with a shower of lead. As the dying officer fell, Crowley leaped out of the car, grabbed the officer's
 revolver, and fired another bullet into the prostrate body. And that
 was the killer who said: "Under my coat is a weary heart, but a kind
 one - one that would do nobody any harm.'
@@ -54,9 +52,9 @@ to this:
 pleasures, helping them have a good time, and all I get is abuse, the
 existence of a hunted man."
 
-That's Al Capone speaking. Yes, America's most notorious Public Enemy-
+That's Al Capone speaking. Yes, America's most notorious Public Enemy -
 the most sinister gang leader who ever shot up Chicago. Capone didn't
-condemn himself He actually regarded himself as a public benefactor -
+condemn himself. He actually regarded himself as a public benefactor -
 an unappreciated and misunderstood public benefactor.
 
 And so did Dutch Schultz before he crumpled up under gangster bullets
@@ -74,9 +72,7 @@ by a form of reasoning, fallacious or logical, to justify their
 antisocial acts even to themselves, consequently stoutly maintaining
 that they should never have been imprisoned at all."
 
-If Al Capone, "Two Gun" Crowley, Dutch Schultz,
-
-and the desperate men and women behind prison walls don't blame
+If Al Capone, "Two Gun" Crowley, Dutch Schultz, and the desperate men and women behind prison walls don't blame
 themselves for anything - what about the people with whom you and I
 come in contact?
 
@@ -103,30 +99,17 @@ animal punished for bad behavior. Later studies have shown that the
 same applies to humans. By criticizing, we do not make lasting changes
 and often incur resentment.
 
-Hans Selye, another great psychologist, said, "As
-
-much as we thirst for approval, we dread condemnation,"
-
-The resentment that criticism engenders can demoralize employees,
+Hans Selye, another great psychologist, said, "As much as we thirst for approval, we dread condemnation," The resentment that criticism engenders can demoralize employees,
 family members and friends, and still not correct the situation that
 has been condemned.
 
-George B. Johnston of Enid, Oklahoma, is the safety
-
-coordinator for an engineering company. One of his re-sponsibilities
-
+George B. Johnston of Enid, Oklahoma, is the safety coordinator for an engineering company. One of his responsibilities
 is to see that employees wear their hard
-
 hats whenever they are on the job in the field. He reported
-
 that whenever he came across workers who were
-
 not wearing hard hats, he would tell them with a lot of
-
 authority of the regulation and that they must comply.
-
 As a result he would get sullen acceptance, and often
-
 after he left, the workers would remove the hats.
 
 He decided to try a different approach. The next time he found some of
@@ -138,39 +121,22 @@ increased compliance with the regulation with no resentment or
 emotional upset.
 
 You will find examples of the futility of criticism bristling
-
 on a thousand pages of history. Take, for example,
-
 the famous quarrel between Theodore Roosevelt and
-
 President Taft - a quarrel that split the Republican
-
 party, put Woodrow Wilson in the White House, and
-
 wrote bold, luminous lines across the First World War
-
 and altered the fiow of history. Let's review the facts
-
 quickly. When Theodore Roosevelt stepped out of the
-
 White House in 1908, he supported Taft, who was
-
 elected President. Then Theodore Roosevelt went off to
-
 Africa to shoot lions. When he returned, he exploded.
-
 He denounced Taft for his conservatism, tried to secure
-
 the nomination for a third term himself, formed the Bull
-
-Moose party, and all but demolished the G.O.P. In the
-
+Moose party, and all but demolished the G.O.P. in the
 election that followed, William Howard Taft and the Republican
-
 party carried only two states - Vermont and
-
 Utah. The most disastrous defeat the party had ever
-
 known.
 
 Theodore Roosevelt blamed Taft, but did President Taft blame himself?
@@ -225,7 +191,6 @@ and condemn us in return; or, like the gentle Taft, will say: "I don't
 see how I could have done any differently from what I have."
 
 On the morning of April 15, 1865, Abraham Lincoln
-
 lay dying in a hall bedroom of a cheap lodging house directly across
 the street from Ford's Theater, where John Wilkes Booth had shot him.
 Lincoln's long body lay stretched diagonally across a sagging bed that
@@ -263,9 +228,7 @@ save his honor. He was given the choice of weapons. Since he had very
 long arms, he chose cavalry broadswords and took lessons in sword
 fighting from a West Point graduate; and, on the appointed day, he and
 Shields met on a sandbar in the Mississippi River, prepared to fight
-to the death; but, at
-
-the last minute, their seconds interrupted and stopped the duel.
+to the death; but, at the last minute, their seconds interrupted and stopped the duel.
 
 That was the most lurid personal incident in Lincoln's life. It taught
 him an invaluable lesson in the art of dealing with people. Never
@@ -289,42 +252,26 @@ Yet if any man ever had occasion to criticize, surely it was Lincoln.
 Let's take just one illustration:
 
 The Battle of Gettysburg was fought during the first
-
 three days of July 1863. During the night of July 4, Lee
-
 began to retreat southward while storm clouds deluged
-
 the country with rain. When Lee reached the Potomac
-
 with his defeated army, he found a swollen, impassable
-
 river in front of him, and a victorious Union Army behind
-
 him. Lee was in a trap. He couldn't escape. Lincoln
-
-saw that. Here was a golden, heaven-sent opportunity-
-
-the opportunity to capture Lee's army and end the war
-
+saw that. Here was a golden, heaven-sent opportunity - the opportunity to capture Lee's army and end the war
 immediately. So, with a surge of high hope, Lincoln ordered
-
 Meade not to call a council of war but to attack
-
 Lee immediately. Lincoln telegraphed his orders and
-
 then sent a special messenger to Meade demanding immediate
-
 action.
 
 And what did General Meade do? He did the very opposite of what he was
 told to do. He called a council of war in direct violation of
 Lincoln's orders. He hesitated. He procrastinated. He telegraphed all
-manner of
-
-excuses. He refused point-blank to attack Lee. Finally the waters
+manner of excuses. He refused point-blank to attack Lee. Finally the waters
 receded and Lee escaped over the Potomac with his forces.
 
-Lincoln was furious, " What does this mean?" Lincoln cried to his son
+Lincoln was furious, "What does this mean?" Lincoln cried to his son
 Robert. "Great God! What does this mean? We had them within our grasp,
 and had only to stretch forth our hands and they were ours; yet
 nothing that I could say or do could make the army move. Under the
@@ -340,10 +287,10 @@ My dear General,
 
 I do not believe you appreciate the magnitude of the misfortune
 involved in Lee's escape. He was within our easy grasp, and to have
-closed upon him would, in connection With our other late successes,
+closed upon him would, in connection with our other late successes,
 have ended the war. As it is, the war will be prolonged indefinitely.
 If you could not safely attack Lee last Monday, how can you possibly
-do so south of the river, when you can take with you very few-no more
+do so south of the river, when you can take with you very few - no more
 than two-thirds of the force you then had in hand? It would be
 unreasonable to expect and I do not expect that you can now effect
 much. Your golden opportunity is gone, and I am distressed
@@ -359,21 +306,17 @@ letter, Lincoln looked out of the window and said to himself, "Just a
 minute. Maybe I ought not to be so hasty. It is easy enough for me to
 sit here in the quiet of the White House and order Meade to attack;
 but if I had been up at Gettysburg, and if I had seen as much blood as
-Meade has seen during the last week, and if my
-
-ears had been pierced with the screams and shrieks of the wounded and
+Meade has seen during the last week, and if my ears had been pierced with the screams and shrieks of the wounded and
 dying, maybe I wouldn't be so anxious to attack either. If I had
 Meade's timid temperament, perhaps I would have done just what he had
 done. Anyhow, it is water under the bridge now. If I send this letter,
 it will relieve my feelings, but it will make Meade try to justify
-himself It will make him condemn me. It will arouse hard feelings,
+himself. It will make him condemn me. It will arouse hard feelings,
 impair all his further usefulness as a commander, and perhaps force
 him to resign from the army."
 
 So, as I have already said, Lincoln put the letter aside,
-
 for he had learned by bitter experience that sharp criticisms
-
 and rebukes almost invariably end in futility.
 
 Theodore Roosevelt said that when he, as President, was confronted
@@ -403,7 +346,7 @@ were never sent.
 Do you know someone you would like to change and regulate and improve?
 Good! That is fine. I am all in
 
-favor of it, But why not begin on yourself? From a purely selfish
+favour of it, But why not begin on yourself? From a purely selfish
 standpoint, that is a lot more profitable than trying to improve
 others - yes, and a lot less dangerous. "Don't complain about the snow
 on your neighbor's roof," said Confucius, "when your own doorstep is
@@ -443,9 +386,7 @@ writing of fiction. Criticism drove Thomas Chatterton, the English
 poet, to suicide.
 
 Benjamin Franklin, tactless in his youth, became so diplomatic, so
-adroit at handling people, that he was
-
-made American Ambassador to France. The secret of his success? "I will
+adroit at handling people, that he was made American Ambassador to France. The secret of his success? "I will
 speak ill of no man," he said, " . . and speak all the good I know of
 everybody."
 
@@ -457,18 +398,12 @@ forgiving.
 "A great man shows his greatness," said Carlyle, "by the way he treats
 little men."
 
-Bob Hoover, a famous test pilot and frequent per-former
-
+Bob Hoover, a famous test pilot and frequent performer
 at air shows, was returning to his home in Los
-
 Angeles from an air show in San Diego. As described in
-
 the magazine Flight Operations, at three hundred feet
-
 in the air, both engines suddenly stopped. By deft maneuvering
-
 he managed to land the plane, but it was
-
 badly damaged although nobody was hurt.
 
 Hoover's first act after the emergency landing was to inspect the
@@ -490,19 +425,14 @@ shoulder and said, "To show you I'm sure that you'll never do this
 again, I want you to service my F-51 tomorrow."
 
 Often parents are tempted to criticize their children.
-
 You would expect me to say "don't." But I will not, I am
-
 merely going to say, "Before you criticize them, read
-
 one of the classics of American journalism, 'Father Forgets.' "
-
 It originally appeared as an editorial in the People's
-
 Home Journnl. We are reprinting it here with the author's permission,
 as condensed in the Reader's Digest:
 
-"Father Forgets" is one of those httle pieces which-dashed of in a
+"Father Forgets" is one of those httle pieces which dashed of in a
 moment of sincere feeling - strikes an echoing chord in so many
 readers as to become a perenial reprint favorite. Since its first
 appearance, "Father Forgets" has been reproduced, writes the author,
@@ -540,10 +470,8 @@ frowned, and said in reply, "Hold your shoulders back!"
 Then it began all over again in the late afternoon. As I came up the
 road I spied you, down on your knees, playing marbles. There were
 holes in your stockings. I humiliated
-
 you before your boyfriends by marching you ahead of me to the house.
-Stockings were expensive - and if you had to
-
+Stockings were expensive and if you had to
 buy them you would be more careful! Imagine that, son, from a father!
 
 Do you remember, later, when I was reading in the library, how you
@@ -568,7 +496,7 @@ And there was so much that was good and fine and true in your
 character. The little heart of you was as big as the dawn itself over
 the wide hills. This was shown by your spontaneous impulse to rush in
 and kiss me good night. Nothing else matters tonight, son. I have come
-to your bed-side in the darkness, and I have knelt there, ashamed!
+to your bedside in the darkness, and I have knelt there, ashamed!
 
 It is a feeble atonement; I know you would not understand these things
 if I told them to you during your waking hours. But tomorrow I will be
@@ -595,14 +523,11 @@ until the end of his days."
 Why should you and I?
 
 PRINCIPLE 1 Don't criticize, condemn or complain.
-*** THE BIG SECRET OF DEALING WITH PEOPLE
+** 2 THE BIG SECRET OF DEALING WITH PEOPLE
 
 There is only one way under high heaven to get anybody
-
 to do anything. Did you ever stop to think of that? Yes,
-
 just one way. And that is by making the other person want to do it.
-
 Remember, there is no other way.
 
 Of course, you can make someone want to give you his watch by sticking
@@ -617,7 +542,6 @@ want.
 What do you want?
 
 Sigmund Freud said that everything you and I do
-
 springs from two motives: the sex urge and the desire to be great.
 
 John Dewey, one of America's most profound philosophers, phrased it a
@@ -646,22 +570,17 @@ most people want include:
 
 8. A feeling of importance.
 
-Almost all these wants are usually gratified-all except one. But there
+Almost all these wants are usually gratified - all except one. But there
 is one longing - almost as deep, almost as imperious, as the desire
 for food or sleep - which is seldom gratified. It is what Freud calls
 "the desire to be great." It is what Dewey calls the "desire to be
 important."
 
 Lincoln once began a letter saying: "Everybody likes
-
 a compliment." William James said: "The deepest principle
-
 in human nature is the craving to be appreciated."
-
 He didn't speak, mind you, of the "wish" or the "desire"
-
 or the "longing" to be appreciated. He said the "craving"
-
 to be appreciated.
 
 Here is a gnawing and unfaltering human hunger, and the rare
@@ -671,7 +590,6 @@ when he dies."
 
 The desire for a feeling of importance is one of the chief
 distinguishing differences between mankind and
-
 the animals. To illustrate: When I was a farm boy out in Missouri, my
 father bred fine Duroc-Jersey hogs and . pedigreed white - faced
 cattle. We used to exhibit our hogs and white-faced cattle at the
@@ -726,7 +644,6 @@ was Public Enemy Number One. "I'm not going to hurt you, but I'm
 Dillinger!" he said.
 
 Yes, the one significant difference between Dillinger
-
 and Rockefeller is how they got their feeling of importance.
 
 History sparkles with amusing examples of famous people struggling for
@@ -753,7 +670,6 @@ while he reclined on the bed beside her for hours at a time, his arm
 about her, soothing her to sleep. She fed her gnawing desire for
 attention by insisting that he remain with her while she was having
 her teeth fixed, and once created
-
 a stormy scene when he had to leave her alone with the dentist while
 he kept an appointment with John Hay, his secretary of state.
 
@@ -793,9 +709,7 @@ Why do these people go insane?
 I put that question to the head physician of one of our most important
 psychiatric hospitals. This doctor, who has received the highest
 honors and the most coveted awards for his knowledge of this subject,
-told me frankly
-
-that he didn't know why people went insane. Nobody knows for sure But
+told me frankly that he didn't know why people went insane. Nobody knows for sure But
 he did say that many people who go insane find in insanity a feeling
 of importance that they were unable to achieve in the world of
 reality. Then he told me this story:
@@ -857,13 +771,13 @@ that is in a person is by appreciation and encouragement.
 "There is nothing else that so kills the ambitions of a person as
 criticisms from superiors. I never criticize anyone. I believe in
 giving a person incentive to work. So I am anxious to praise but loath
-to find fault. If I like anything, / am hearty in my approbation and
+to find fault. If I like anything, I am hearty in my approbation and
 lavish in my praise. "
 
 That is what Schwab did. But what do average people do? The exact
 opposite. If they don't like a thing, they bawl out their
 subordinates; if they do like it, they say nothing. As the old couplet
-says: "Once I did bad and that I heard ever/Twice I did good, but that
+says: "Once I did bad and that I heard ever. Twice I did good, but that
 I heard never."
 
 "In my wide association in life, meeting with many and great people in
@@ -873,34 +787,23 @@ work and put forth greater effort under a spirit of approval than he
 would ever do under a spirit of criticism."
 
 That he said, frankly, was one of the outstanding reasons
-
 for the phenomenal success of Andrew Carnegie. Carnegie praised his
-associates pubhcly as well as pr-vately.
+associates publicly as well as privately.
 
 Carnegie wanted to praise his assistants even on his tombstone. He
 wrote an epitaph for himself which read: "Here lies one who knew how
 to get around him men who were cleverer than himself"
 
 Sincere appreciation was one of the secrets of the first
-
 John D. Rockefeller's success in handling men. For example,
-
 when one of his partners, Edward T. Bedford,
-
 lost a million dollars for the firm by a bad buy in South
-
 America, John D. might have criticized; but he knew
-
 Bedford had done his best - and the incident was
-
 closed. So Rockefeller found something to praise; he
-
 congratulated Bedford because he had been able to save
-
 60 percent of the money he had invested. "That's splendid,"
-
 said Rockefeller. "We don't always do as well as
-
 that upstairs."
 
 I have among my clippings a story that I know never happened, but it
@@ -926,7 +829,6 @@ self-improvement program. She asked her husband to help her by listing
 six things he believed she could do to help her become a better wife.
 He reported to the class: "I was surprised by such a request. Frankly,
 it would have been easy for me to list
-
 six things I would like to change about her - my heavens, she could
 have listed a thousand things she would like to change about me - but
 I didn't. I said to her, 'Let me think about it and give you an answer
@@ -989,9 +891,9 @@ time Stevie had been shown appreciation for those talented ears. Now,
 years later, he says that this act of appreciation was the beginning
 of a new life. You see, from that time on he developed his gift of
 hearing and went on to become, under the stage name of Stevie Wonder,
-one of the great pop singers and and songwriters of the seventies.*
+one of the great pop singers and and songwriters of the seventies.
 
-* Paul Aurandt, PoillHorvey's The Rest of the Story (NeiV York:
+Paul Aurandt, PoillHorvey's The Rest of the Story (NeiV York:
 Doubleday, 1977). Edited and compiled by Lynne Harvey. Copyright © by
 Paulynne, Inc.
 
@@ -1002,14 +904,12 @@ not with intelligent people."
 Of course flattery seldom works with discerning people. It is shallow,
 selfish and insincere. It ought to fail and it usually does. True,
 some people are so hungry, so thirsty, for appreciation that they will
-swallow anything, just as a starving man will eat grass and fishworms.
+swallow anything, just as a starving man will eat grass and fish worms.
 
 Even Queen Victoria was susceptible to flattery. Prime Minister
 Benjamin Disraeli confessed that he put it on thick in dealing with
 the Queen. To use his exact words, he said he "spread it on with a
-trowel." But Disraeli
-
-was one of the most polished, deft and adroit men who ever ruled the
+trowel." But Disraeli was one of the most polished, deft and adroit men who ever ruled the
 far-flung British Empire. He was a genius in his line. What would work
 for him wouldn't necessarily work for you and me. In the long run,
 flattery will do you more harm than good. Flattery is counterfeit, and
@@ -1024,7 +924,7 @@ universally admired; the other universally condemned.
 I recently saw a bust of Mexican hero General Alvaro Obregon in the
 Chapultepec palace in Mexico City. Below the bust are carved these
 wise words from General Obregon's philosophy: "Don't be afraid of
-enemies who attack you. Be afraid of the friends who fiatter you."
+enemies who attack you. Be afraid of the friends who flatter you."
 
 No! No! No! I am not suggesting fiattery! Far from it. I'm talking
 about a new way of life. Let me repeat. I am talking about a new way
@@ -1032,22 +932,22 @@ of life.
 
 King George V had a set of six maxims displayed on the walls of his
 study at Buckingham Palace. One of these maxims said: "Teach me
-neither to proffer nor receive cheap praise." That's all fiattery is -
-cheap praise. I once read a definition of fiattery that may be worth
+neither to proffer nor receive cheap praise." That's all flattery is -
+cheap praise. I once read a definition of flattery that may be worth
 repeating: "Flattery is telling the other person precisely what he
 thinks about himself"
 
 "Use what language you will," said Ralph Waldo Emerson, "you can never
 say anything but what you are ."
 
-If all we had to do was fiatter, everybody would catch on and we
+If all we had to do was flatter, everybody would catch on and we
 should all be experts in human relations.
 
 When we are not engaged in thinking about some definite problem, we
 usually spend about 95 percent of our time thinking about ourselves.
 Now, if we stop thinking about ourselves for a while and begin to
 think of the other person's good points, we won't have to resort to
-fiattery so cheap and false that it can be spotted almost before it is
+flattery so cheap and false that it can be spotted almost before it is
 out of the mouth.
 
 One of the most neglected virtues of our daily existence is
@@ -1076,33 +976,21 @@ daily trips. You will be surprised how they will set small flames of
 friendship that will be rose beacons on your next visit.
 
 Pamela Dunham of New Fairfield, Connecticut, had
-
 among her responsibilities on her job the supervision of
-
 a janitor who was doing a very poor job. The other employees
-
 would jeer at him and litter the hallways to show
-
 him what a bad job he was doing. It was so bad, productive
-
 time was being lost in the shop.
 
 Without success, Pam tried various ways to motivate
-
 this person. She noticed that occasionally he did a particularly
-
 good piece of work. She made a point to praise
-
 him for it in front of the other people. Each day the job
-
 he did all around got better, and pretty soon he started
-
 doing all his work efficiently. Now he does an excellent
-
 job and other people give him appreciation and recognition.
 
 Honest appreciation got results where criticism
-
 and ridicule failed.
 
 Hurting people not only does not change them, it is never called for.
@@ -1125,16 +1013,14 @@ your words and treasure them and repeat them over a lifetime - repeat
 them years after you have forgotten them.
 
 PRINCIPLE 2 Give honest and sincere appreciation.
-*** 3 "HE WHO CAN DO THIS HAS THE WHOLE WORLD WITH HIM. HE WHO CANNOT WALKS A LONELY WAY"
+** 3 "HE WHO CAN DO THIS HAS THE WHOLE WORLD WITH HIM. HE WHO CANNOT WALKS A LONELY WAY"
 
 I often went fishing up in Maine during the summer. Personally I am
 very fond of strawberries and cream, but I have found that for some
 strange reason, fish prefer worms. So when I went fishing, I didn't
 think about what I wanted. I thought about what they wanted. I didn't
 bait the hook with strawberries and cream. Rather, I dangled a worm or
-a grasshopper in front of the fish and
-
-said: "Wouldn't you like to have that?"
+a grasshopper in front of the fish and said: "Wouldn't you like to have that?"
 
 Why not use the same common sense when fishing for people?
 
@@ -1146,13 +1032,9 @@ attributed to any one thing, it would be to his having learned that it
 was necessary to bait the hook to suit the fish.
 
 Why talk about what we want? That is childish. Absurd.
-
 Of course, you are interested in what you want.
-
 You are eternally interested in it. But no one else is. The
-
 rest of us are just like you: we are interested in what we
-
 want.
 
 So the only way cm earth to influence other people is to talk about
@@ -1165,33 +1047,19 @@ them that cigarettes may keep them from making the basketball team or
 winning the hundred-yard dash.
 
 This is a good thing to remember regardless of
-
 whether you are dealing with children or calves or chimpanzees.
-
 For example: one day Ralph Waldo Emerson
-
 and his son tried to get a calf into the barn. But they
-
 made the common mistake of thinking only of what they
-
 wanted: Emerson pushed and his son pulled. But the
-
 calf was doing just what they were doing; he was thinking
-
 only of what he wanted; so he stiffened his legs and
-
 stubbornly refused to leave the pasture. The Irish housemaid
-
 saw their predicament. She couldn't write essays
-
 and books; but, on this occasion at least, she had more
-
 horse sense, or calf sense, than Emerson had. She
-
 thought of what the calf wanted; so she put her maternal
-
 finger in the calf s mouth and let the calf suck her finger
-
 as she gently led him into the barn.
 
 Every act you have ever performed since the day you were born was
@@ -1203,31 +1071,18 @@ Inasmuch as ye have done it unto one of the least of these my
 brethren, ye have done it unto me."
 
 If you hadn't wanted that feeling more than you
-
 wanted your money, you would not have made the contribution.
-
 Of course, you might have made the contribution
-
 because you were ashamed to refuse or because a
-
 customer asked you to do it. But one thing is certain. You
-
 made the contribution because you wanted something.
-
 Harry A, Overstreet in his illuminating book Influencing
-
 Human Behavior said; "Action springs out of what
-
 we fundamentally desire . . . and the best piece of advice
-
 which can be given to would-be persuaders,
-
 whether in business, in the home, in the school, in politics,
-
 is: First, arouse in the other person an eager want.
-
 He who can do this has the whole world with him. He
-
 who cannot walks a lonely way."
 
 Andrew Carnegie, the poverty-stricken Scotch lad who started to work
@@ -1249,12 +1104,12 @@ post-script that he was sending each one a five-dollar bill.
 He neglected, however, to enclose the money.
 
 Back came replies by return mail thanking "Dear Uncle Andrew" for his
-kind note and-you can finish the sentence yourself.
+kind note and you can finish the sentence yourself.
 
 Another example of persuading comes from Stan Novak of Cleveland,
 Ohio, a participant in our course. Stan came home from work one
 evening to find his youngest son, Tim, kicking and screaming on the
-living room fioor. He was to start kindergarten the next day and was
+living room floor. He was to start kindergarten the next day and was
 protesting that he would not go. Stan's normal reaction would have
 been to banish the child to his room and tell him he'd just better
 make up his mind to go. He had no choice. But tonight, recognizing
@@ -1263,7 +1118,7 @@ frame of mind, Stan sat down and thought, "If I were Tim, why would I
 be excited about going to kindergarten?" He and his wife made a list
 of all the fun things Tim would do such as finger painting, singing
 songs, making new friends. Then they put them into action. "We all
-started finger-painting on the kitchen table-my wife, Lil, my other
+started finger-painting on the kitchen table - my wife, Lil, my other
 son Bob, and myself, all having fun. Soon Tim was peeping around the
 corner. Next he was begging to participate. 'Oh, no! You have to go to
 kindergarten first to learn how to finger-paint.' With all the
@@ -1298,7 +1153,7 @@ what they wanted. So a couple of days later I went to see the manager.
 
 "I was a bit shocked when I got your letter," I said, "but I don't
 blame you at all. If I had been in your position, I should probably
-have written a similar letter myself Your duty as the manager of the
+have written a similar letter myself. Your duty as the manager of the
 hotel is to make all the profit possible. If you don't do that, you
 will be fired and you ought to be fired. Now, let's take a piece of
 paper and write down the advantages and the disadvantages that will
@@ -1324,19 +1179,14 @@ shall be forced to hold these lectures at some other place.
 crowds of educated and cultured people to your hotel. That is good
 advertising for you, isn't it? In fact, if you spent five thousand
 dollars advertising in the
-
 newspapers, you couldn't bring as many people to look at your hotel as
 I can bring by these lectures. That is worth a lot to a hotel, isn't
 it?"
 
 As I talked, I wrote these two "disadvantages" under
-
 the proper heading, and handed the sheet of paper to
-
 the manager, saying: "I wish you would carefully consider
-
 both the advantages and disadvantages that are
-
 going to accrue to you and then give me your final decision."
 
 I received a letter the next day, informing me that my rent would be
@@ -1347,15 +1197,10 @@ wanted. I talked all the time about what the other person wanted and
 how he could get it.
 
 Suppose I had done the human, natural thing; suppose
-
 I had stormed into his office and said, "What do you
-
 mean by raising my rent three hundred percent when
-
 you know the tickets have been printed and the announcements
-
 made? Three hundred percent! Ridiculous!
-
 Absurd! I won't pay it!"
 
 What would have happened then? An argument would have begun to steam
@@ -1370,7 +1215,7 @@ view and see things from that person's angle as well as from your
 own."
 
 That is so good, I want to repeat it: "If there is any one secret of
-success, it lies in the abiUty to get the other person's point of view
+success, it lies in the ability to get the other person's point of view
 and see things from that person's angle as well as from your own. "
 
 That is so simple, so obvious, that anyone ought to see the truth of
@@ -1394,7 +1239,6 @@ Indiana
 Dear Mr. Blank:
 
 The company desires to retain its position in advertising
-
 agency leadership in the radio field.
 
 [Who cares what your company desires? I am worried about my own
@@ -1422,7 +1266,6 @@ All this talk about your enormous success makes me feel small and
 unimportant.]
 
 We desire to service our accounts with the last word on
-
 radio station information.
 
 [You desire! You desire. You unmitigated ass. I'm not interested in
@@ -1432,12 +1275,11 @@ Let me tell you once and for all that I am interested in what I desire
 yours .]
 
 Willy oil, therefore, put the company on your
-
 preferred list for weekly station information - every single detail
 that will he useful to an agency in intelligently hooking time.
 
 ["Preferred list." You have your nerve! You make me feel insignificant
-by your big talk about your company - nd then you ask me to put you on
+by your big talk about your company - and then you ask me to put you on
 a "preferred" list, and you don't even say "please" when you ask it.]
 
 Kprompt acknowledgment of this letter, giving us your latest "doings,
@@ -1466,7 +1308,6 @@ interest to you, and you may want to hroadcast it over your station.
 [Finally, down here in the postscript, you mention something that may
 help me solve one of my problems. Why didn't you begin your letter
 with - but what's the
-
 use? Any advertising man who is guilty of perpetrating such drivel as
 you have sent me has something wrong with his medulla oblongata. You
 don't need a letter giving our latest doings. What you need is a quart
@@ -1543,7 +1384,6 @@ Naturally, that causes congestion. That means your trucks are held up
 unavoidably at the pier and sometimes even your freight is delayed.
 
 That's bad, but it can be avoided. If you make your deliveries
-
 at the pier in the morning when possible, your trucks will be able to
 keep moving, your freight will get immediate attention, and our
 workers will get home early at night to enjoy a dinner of the
@@ -1620,7 +1460,6 @@ assigned to two agents, whom I shall refer to as Carl and John.
 "One morning, Carl dropped by our office and casually mentioned that
 his company had just introduced a new life insurance policy for
 executives and thought we
-
 might be interested later on and he would get back to us when he had
 more information on it.
 
@@ -1644,21 +1483,13 @@ our coverage.
 us any desire for the policies."
 
 The world is full of people who are grabbing and self-seeking.
-
 So the rare individual who unselfishly tries to
-
 serve others has an enormous advantage. He has little
-
 competition. Owen D. Young, a noted lawyer and one of
-
 America's great business leaders, once said: "People
-
 who can put themselves in the place of other people
-
 who can understand the workings of their minds, need
-
 never worry about what the future has in store for
-
 them."
 
 If out of reading this book you get just one thing - an increased
@@ -1711,7 +1542,6 @@ their free time, and this is about what he said: "I want you to come
 out and play basketball. I like to play basketball, but the last few
 times I've been to the gymnasium there haven't been enough people to
 get up a game. Two or three of us got
-
 to throwing the ball around the other night - and I got a black eye. I
 wish all of you would come down tomorrow night. I want to play
 basketball."
@@ -1725,7 +1555,7 @@ gymnasium? Surely. More pep. Keener edge to the appetite. Clearer
 brain. Fun. Games. Basketball.
 
 To repeat Professor Overstreet's wise advice: First, arouse in the
-other person an eager want He who can do this has the whole world with
+other person an eager want. He who can do this has the whole world with
 him. He who cannot walks a lonely way.
 
 One of the students in the author's training course was worried about
@@ -1735,9 +1565,7 @@ wants you to eat this and that." "Father wants you to grow up to be a
 big man."
 
 Did the boy pay any attention to these pleas? Just
-
 about as much as you pay to one fleck of sand on a sandy
-
 beach.
 
 No one with a trace of horse sense would expect a child three years
@@ -1750,11 +1578,10 @@ It was easy for the father when he starting thinking about it. His boy
 had a tricycle that he loved to ride up and down the sidewalk in front
 of the house in Brooklyn. A few doors down the street lived a bully -
 a bigger boy who would pull the little boy off his tricycle and ride
-it himself
+it himself.
 
 Naturally, the little boy would run screaming to his mother, and she
 would have to come out and take the
-
 bully off the tricycle and put her little boy on again, This happened
 almost every day.
 
@@ -1797,13 +1624,10 @@ The salesgirl made him feel important by saying: "Young man, what can
 I show you?"
 
 He stood a couple of inches taller and said: "I want to
-
 buy a bed for myself."
 
 When he was shown the one his mother wanted him
-
 to buy, she winked at the salesgirl and the boy was persuaded
-
 to buy it.
 
 The bed was delivered the next day; and that night, when Father came
@@ -1826,15 +1650,10 @@ futility. So the parents asked themselves: "How can we make her want
 to do it?"
 
 The little girl loved to imitate her mother, to feel big
-
 and grown up; so one morning they put her on a chair
-
 and let her make the breakfast food. At just the psychological
-
 moment. Father drifted into the kitchen while
-
 she was stirring the cereal and she said: "Oh, look.
-
 Daddy, I am making the cereal this morning."
 
 She ate two helpings of the cereal without any coaxing, because she
@@ -1855,7 +1674,7 @@ do this has the whole world with him. He who cannot walks a lonely
 way."
 
 PRINCIPLE 3 Arouse in the other person an eager want.
-*** In a Nutshell
+** In a Nutshell
 
 FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
 
